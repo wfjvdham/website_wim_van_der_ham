@@ -1,2 +1,3 @@
-# website_wim_van_der_ham
-My personal website
+# My personal website
+
+website created with `blogdown` to post my personal stories.
