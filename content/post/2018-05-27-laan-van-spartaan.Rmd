@@ -2,11 +2,12 @@
 title: Laan van Spartaan
 author: Wim van der Ham
 date: '2018-05-27'
-slug: laan-van-spartaan
 categories:
-  - verhaal
+  - artikel
 tags:
   - volleybal
+  - swammer
+slug: laan-van-spartaan
 ---
 
 > *Gescheven voor de Swammer in september 2015*
