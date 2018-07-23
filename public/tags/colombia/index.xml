@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Verhaal on </title>
-    <link>/categories/verhaal/</link>
-    <description>Recent content in Verhaal on </description>
+    <title>Colombia on </title>
+    <link>/tags/colombia/</link>
+    <description>Recent content in Colombia on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl</language>
     <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/verhaal/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/colombia/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Golden Rock</title>
-      <link>/2018/07/23/golden-rock/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/07/23/golden-rock/</guid>
-      <description>Naast mijn voet vloeit wat braaksel. Het kan van het meisje voor mij zijn, of haar buurvrouw of haar buurman. We zitten in 7 rijen van 6 opgepropt in een laadbak van een auto. Ik heb zo weinig ruimte dat ik niet normaal kan zitten alleen half geknield. We rijden als een idioot over een bergweg naar boven.
-Even later stoppen we. Opgelucht, want juist deze dag heb ik gigantische diarree, begin ik alvast te zoeken naar een wc.</description>
-    </item>
     
     <item>
       <title>Laatste dag in Bogota</title>
@@ -29,6 +19,16 @@ Even later stoppen we. Opgelucht, want juist deze dag heb ik gigantische diarree
       <guid>/2018/07/23/laatste-dag-in-bogota/</guid>
       <description>Haar vader zou ons naar het vliegveld brengen vandaag en dat was een groot probleem. Dit was een man die op de begrafenis van zijn zwager 2 uur te laat was gekomen, en op de vraag “Hoe was het” schouderophalend met: “Hij zat al in de grond” reageerde. Deze man moest ons nu op tijd naar het vliegveld brengen.
 Op de dag zelf had hij nog bedacht dat hij ons voor onze trip wat geld mee wou geven, daarvoor moest alleen eerst wel een chaque verzilverd worden.</description>
+    </item>
+    
+    <item>
+      <title>Volleybal in Colombia</title>
+      <link>/2018/05/28/volleybal-in-colombia/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/05/28/volleybal-in-colombia/</guid>
+      <description>Gescheven voor de Swammer in oktober 2016
+ Om 8 uur begint de beachvolleybaltraining. Dat is een Colombiaanse 8 uur wat in de praktijk betekent dat je rustig om half negen of later aan kan komen, zonder dat iemand daar ook maar een onvertogen woord over zegt. We beginnen met een uitgebreide warming up. Het is hier als de zon onder is nog steeds minimaal 22 graden, dus voor mij is het ritje in een volle metro genoeg om mijn oksels te doen klotsen.</description>
     </item>
     
   </channel>
