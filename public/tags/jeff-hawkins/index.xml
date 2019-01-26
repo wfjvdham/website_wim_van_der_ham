@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Hawkins on </title>
+    <link>/tags/jeff-hawkins/</link>
+    <description>Recent content in Jeff Hawkins on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <lastBuildDate>Sat, 26 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/jeff-hawkins/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samenvatting van On Intelligence</title>
+      <link>/2019/01/26/samenvatting-van-on-intelligence/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/26/samenvatting-van-on-intelligence/</guid>
+      <description>Het book legt uit hoe het menselijk brein werkt om te begrijpen wat het betekend om een intelligente computer the maken. De belangrijkste punten uit het boek zijn:
+Het menselijk brein heeft een hiërarchische structuur. Waarbij op verschillende niveaus patronen herkend worden en afwijkingen van die patronen worden doorgegeven aan een hoger niveau. Deze structuur wordt gebruikt om voorspellingen te maken over de wereld om ons heen. Deze voorspellingen worden continue aangepast afhankelijk van de feedback die het brein terug krijgt.</description>
+    </item>
+    
+  </channel>
+</rss>

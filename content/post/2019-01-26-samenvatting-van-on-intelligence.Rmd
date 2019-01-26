@@ -1,0 +1,43 @@
+---
+title: Samenvatting van On Intelligence
+author: Wim van der Ham
+date: '2019-01-26'
+slug: samenvatting-van-on-intelligence
+categories:
+  - samenvatting
+tags:
+  - Jeff Hawkins
+---
+
+Het book legt uit hoe het menselijk brein werkt om te begrijpen wat het betekend om een intelligente computer the maken. De belangrijkste punten uit het boek zijn:
+
+1. **Het menselijk brein heeft een hiërarchische structuur.** Waarbij op verschillende niveaus patronen herkend worden en afwijkingen van die patronen worden doorgegeven aan een hoger niveau.
+1. **Deze structuur wordt gebruikt om voorspellingen te maken over de wereld om ons heen.** Deze voorspellingen worden continue aangepast afhankelijk van de feedback die het brein terug krijgt.
+1. **Dit alles gaat ervan uit dat de wereld om ons heen structuur bevat** en kan dus voor problemen zorgen in situaties wanneer die structuur er niet is.
+
+# Hiërarchische Structuur en Voorspellingen
+
+Het brein werkt ongeveer als volgt:
+
+- De zintuigen krijgen grote hoeveelheden ruwe informatie binnen.
+- In deze informatie wordt gezocht naar patronen, bij voorkeur patronen die al eerder waargenomen zijn.
+- Alleen de gevonden patronen en afwijkingen hiervan worden doorgegeven aan een hoger niveau in het brein. Hier vind dus een filtering van informatie plaats.
+- Op dit volgende niveau gebeurd weer hetzelfde waar er nu gezocht wordt naar patronen in de patronen. Wederom worden alleen deze generieke patronen en de afwijkingen daarvan doorgegeven naar het volgende niveau.
+- Dit gaat zo door totdat er 6 niveaus doorlopen zijn, het 6de niveau is ons bewustzijn.
+- Vanaf dit hoogste niveau worden er voorspellingen gemaakt over wat er gaat gebeuren. Deze voorspellingen worden doorgegeven naar een niveau lager, waar weer hetzelfde gebeurt tot en met het laagste niveau.
+
+Dus waarnemingen gaan omhoog in niveaus, terwijl voorspellingen naar beneden gaan. En zolang de wereld voorspelbaar is gaat dit snel en vind grotendeels plaats in de lagere niveaus. Pas als er onvoorspelbare of vreemde dingen gebeuren dringt dit door tot de hogere niveaus. Of tot het hoogste niveau, het bewustzijn.
+
+Dit proces is hetzelfde voor alle verschillende input, geluid, zicht, gevoel het maakt niet uit. Het brein werkt in alle gevallen op dezelfde manier.
+
+Naarmate een patroon vaker voorkomt wordt het in een lager niveau opgeslagen. Dit is leren op basis van ervaring.
+
+# Er is Structuur in de Wereld
+
+Dit alles gaat er vanuit dat er structuur is in de wereld, zodat waarnemingen uit het verleden een voorspellende waarde hebben op wat er in de toekomst gaat gebeuren. Als dit niet het geval is, als dingen willekeurig zijn, dan zal het brein toch altijd proberen een structuur of een patroon te ontdekken. Pseudo-wetenschappen, stigmatisering, geloof en intolerantie zijn daar gevolgen van. 
+
+Het is niet zo goed mogelijk om bijvoorbeeld stigmatiseren ongedaan te maken omdat het zo een centrale eigenschap van ons brein is. 
+
+Ongeacht de input die het brein ontvangt, het zal altijd een patroon vinden en dat gebruiken om voorspellingen te maken. Ongeacht of dit patroon ook daadwerkelijk aanwezig is in de wereld om ons heen[^fooled].
+
+[^fooled]: Zie het boek [Fooled by Randomness](https://en.wikipedia.org/wiki/Fooled_by_Randomness) voor meer over hierover.
