@@ -1,0 +1,72 @@
+---
+title: Samenvatting van Fooled by Randomness
+author: Wim van der Ham
+date: '2019-01-25'
+slug: samenvatting-van-fooled-by-randomness
+categories:
+  - samenvatting
+tags:
+  - Taleb
+---
+
+Willekeur en geluk heeft een grotere invloed op ons leven dan we denken. Dit komt met name door:
+
+1. **De [Survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias).** Waardoor we te veel focussen op succesvolle uitkomsten en niet kijken naar het aantal pogingen of alle gevallen die het niet gehaald hebben. 
+1. **Bias naar causaliteit.** Het menselijke brein is gemaakt om structuur en relaties te detecteren in de wereld om ons heen, maar overschat deze vaak. [^on_intelligence]
+
+# Survivorship bias
+
+Als de groep die iets probeert maar groot genoeg is, zal er altijd iemand van hun succesvol zijn. Dit heeft verder niets te maken met de vaardigheden van deze persoon. Van een grote groep slechte managers zal er eentje door toeval een hele goede carrière hebben. Van een grote groep slechte handelaars zal er eentje door toeval heel rijk worden. Van een (hele) grote groep apen achter een typemachine zal er eentje door toeval de bijbel schrijven. Vervolgens heeft succes ook nog te maken met *winner takes it all* effecten.
+
+## Winner Takes It All
+
+Iedere beroep waar een beperkt aantal plekken het grootste gedeelte van het succes krijgt heeft te maken met *winner takes it all* effecten. Voorbeelden hiervan zijn auteurs, acteurs, wetenschappers, voetballers, artiesten. Een beperkt aantal auteurs verkopen het grootste gedeelte van alle boeken. Een beperkt aantal acteurs speelt in het grootste gedeelte van alle succesvolle films. *George Clooney* werd bij een van zijn eerste audities waarschijnlijk door het nodige geluk geselecteerd. Daarna vond een soort sneeuwbaleffect plaats wat hem een steeds populairdere acteur maakte. Zijn concurrenten voor die eerste auditie werken nu waarschijnlijk bij *McDonald's*. 
+
+Zelf als de kwaliteit van alle acteurs zou stijgen zou het aantal plekken in succesvolle films niet toenemen. Welke er worden gekozen is dus meer afhankelijk van geluk dan kwaliteit. 
+
+## Willekeur of Vaardigheden?
+
+Het is daarom vaak gevaarlijk om succes te verklaren als gevolg van vaardigheden. Een beetje succes kan het gevolg zijn van vaardigheden, gigantisch succes is vaak het gevolg van geluk. 
+
+Een handelaar op de beurs die op een bepaald moment heel veel winst heeft is waarschijnlijk te veel afgestemd op recente gebeurtenissen (overfitted) en zal op de lange termijn zijn geld weer verliezen. 
+
+De meeste mensen worden niet afgerekend op hoe vaak ze het goed of fout hebben maar op wat het hun opleverd. Als je het heel vaak mis hebt en daarme kleine verliezen maakt kunnen die makkelijk gecompenseerd worden door een grote winst als je het een keer goed hebt.
+
+## Focus op het Proces
+
+Dit kan verholpen worden door meer te focussen op het proces en minder op de uitkomst. Het maakt een groot verschil of je 10 miljoen hebt verdient met het spelen van Russisch roulette of door het zijn van tandarts. Toch krijgen beide personen vaak dezelfde hoeveelheid roem en aandacht. De 10 miljoen gewonnen door de speler van Russisch roulette is slecht 1 observatie. Alle andere spelers die op het kerkhof liggen worden vaak vergeten.
+
+Daarom is een focus op het proces veel belangrijker. Helden zijn helden, niet omdat ze gewonnen of verloren hebben, maar door hun heldhaftige gedrag. Het is niet eerlijk om een beslissing alleen te beoordelen op basis van de uitkomst. 
+
+# Bias naar Causaliteit
+
+Naast de *Survivorship bias* is het menselijk brein nog een ander probleem in het onderschatten van de invloed van willekeur en geluk op ons leven. Het menselijk brein is gemaakt om verschillende gebeurtenissen met elkaar te verbinden. Dit is noodzakelijk omdat er anders te veel informatie binnen komt om te verwerken. Het kost veel minder moeite om een reeks van 10 gebeurtenissen te onthouden die elkaar veroorzaken of samen een verhaal maken, dan 10 volledig willekeurige onafhankelijke gebeurtenissen. Terwijl dat laatste vaak is wat er gebeurt in de wereld. 
+
+Bij journalisten is dit nog erger het geval omdat hun werk is verhalen en relaties te vinden. Een artikel met de volgende inhoud:
+
+> Vandaag ging de beurs omhoog maar dat was waarschijnlijk het gevolg van willekeur en we hoeven niet verder naar een verklaring te zoeken.
+
+Zal niet goed verkopen.
+
+En zelfs als iets volledig willekeurig is lijkt er vaak een patroon in te zitten. Alle mogelijke economische theorieën zullen altijd een gedeelte van de geschiedenis goed kunnen verklaren. Als je meer data blijft toevoegen zul je meer verbanden vinden. 
+
+## Niet lineair
+
+Verder is ons brein vooral goed in het detecteren van liniare relaties. A veroorzaakt B dus meer A veroorzaakt meer B. Veel inde wereld werkt echter niet op deze manier. Je kunt jaren op iets studeren zonder enige vooruitgang en vervolgens vind je het antwoord wat je zocht in een flits. Het is 1 druppel die de emeer laat overstromen. 
+
+Deze niet lineariteit is ook door te trekken naar de wetenschap en weerlegt daar de basis voor statistische inteferentie.
+
+## Wetenschap
+
+Volgens [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) kan een wetenschappelijke theorie in een van de volgende twee toestanden zijn:
+
+1. Theorieën die onjuist zijn. Hypothese was getest in een experiment en succesvol verworpen (gefalsificeerd).
+1. Theorieën die nog niet onjuist zijn, maar waar het wel mogelijk van is om ze door middel van een experiment te falsificeren.
+
+Astrologie is dus niet een wetenschappelijke theorie want het is onmogelijk te falsificeren in een experiment.
+
+Popper geloofde niet dat meer en meer voorbeelden van wanneer een theorie wel klopt de theorie per se juister maakte. In andere woorden; het maakt niet uit hoeveel witte zwanen je ook ziet, je zult nooit met zekerheid kunnen zeggen dat alle zwanen wit zijn. Terwijl 1 zwarte zwaan genoeg informatie is om die theorie te weerleggen. De kennis over de werled neemt hier in een niet lineaire manier toe.
+
+Op het moment van schrijven heb ik 12015 observaties van dagen waarin ik niet ben doodgegaan. Ik kan dus met een zeer grote statistische waarschijnlijkheid zeggen dat ik onsterfelijk ben.
+
+[^on_intelligence]: Zie het boek [On Intelligence](https://en.wikipedia.org/wiki/On_Intelligence) voor meer hierover.
